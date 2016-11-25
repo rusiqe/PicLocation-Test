@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PicLocation</string>
+    <string name="title_activity_pic_map">Picture Map</string>
+</resources>
